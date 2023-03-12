@@ -1,0 +1,35 @@
+Jmeno: PJZ(PíJíZde)
+Cíl: Umožnit komunitě uživatelů zjistět více informací o kavárnách od ostatních zákazníků.
+Uživatelské role:
+1.)Nepřihlášení uživatelé.
+2.)Přihlášení uživatelé:
+   Běžní přihlášení uživatelé.
+   Majitelé kaváren
+   Správce fóra (admin)
+Popis:
+  Funkce:
+    komentář se skládá z textu uživatele, jména, data odeslání,
+    označení od 1 do 5 hvězdiček.
+    
+    na domovské stránce webu můžete vidět seznam recenzí 
+    kaváren a tlačítko "přihlásit se"
+
+    když se majitel kavárny přihlašuje, má možnost přidat
+    článek své kavárny.
+
+    kavárny na domovské stránce jsou seřazeny podle 
+    hodnocení (hvězdičky)
+    
+  Funkce podle rolí:
+    Nepřihlášení uživatelé můžou registrovat se.Oni vidí
+    domovskou stránku, kde je seznam kaváren,mohou si otevřít 
+    libovolný článek kavárny a přečíst si všechny komentáře,
+    ale nemohou sami psát komentáře.
+    Běžní přihlášení uživatelé můžou psát vzkazy a můžou 
+    mazat a upravovat svoje vlastní vzkazy.
+    Majitelé kaváren mohou poskytovat informace o svých 
+    vlastních kavárnách,upravovat a mazat své články.
+    Administrátor fóra může psát komentáře, blokovat či 
+    povolovat pravidelně přihlášené uživatele, upravovat 
+    a mazat články kaváren.
+    
